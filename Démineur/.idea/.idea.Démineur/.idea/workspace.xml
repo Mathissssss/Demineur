@@ -8,12 +8,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88a52f88-852e-4e37-a5da-50de8e6fcf24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Démineur/Board.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Démineur/Cell.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Démineur/CellType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Démineur/CellState.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/Board.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Board.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/Cell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Cell.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/CellType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/CellType.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/ref/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/ref/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663688879408</updated>
       <workItem from="1663688885452" duration="12428000" />
+      <workItem from="1663847444660" duration="32784000" />
     </task>
     <servers />
   </component>
@@ -85,7 +93,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -97,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -105,30 +114,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Démineur/Cell.cs</url>
-          <line>18</line>
-          <properties documentPath="C:\Users\matca\Documents\epita\Repogit démineur\Démineur\Démineur\Cell.cs" initialLine="18" containingFunctionPresentation="method 'CountBombs'">
+          <url>file://$PROJECT_DIR$/Démineur/Program.cs</url>
+          <line>8</line>
+          <properties documentPath="C:\Users\matca\Documents\epita\Repogit démineur\Démineur\Démineur\Program.cs" initialLine="8" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="358" />
+              <option value="122" />
             </startOffsets>
             <endOffsets>
-              <option value="359" />
+              <option value="140" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Démineur/Board.cs</url>
-          <line>22</line>
-          <properties documentPath="C:\Users\matca\Documents\epita\Repogit démineur\Démineur\Démineur\Board.cs" initialLine="22" containingFunctionPresentation="constructor 'Board'">
-            <startOffsets>
-              <option value="483" />
-            </startOffsets>
-            <endOffsets>
-              <option value="484" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

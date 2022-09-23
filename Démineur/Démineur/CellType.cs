@@ -11,7 +11,6 @@
         Six = 6,
         Seven = 7,
         Eight = 8,
-        Flag = 9,
-        Bomb = 10
+        Bomb = 9
     }
 }
