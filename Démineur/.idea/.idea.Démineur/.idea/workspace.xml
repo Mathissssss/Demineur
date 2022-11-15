@@ -8,19 +8,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88a52f88-852e-4e37-a5da-50de8e6fcf24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Démineur/CellState.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/Board.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Board.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/Cell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Cell.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/CellType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/CellType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/ref/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/ref/Démineur.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +40,25 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2F2SqSdKS6fJjVXdas1kgpkQxRX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3501355" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="Démineur" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -86,6 +89,12 @@
       <updated>1663688879408</updated>
       <workItem from="1663688885452" duration="12428000" />
       <workItem from="1663847444660" duration="32784000" />
+      <workItem from="1664109148327" duration="228000" />
+      <workItem from="1664109396763" duration="2082000" />
+      <workItem from="1664725069780" duration="151000" />
+      <workItem from="1665068879320" duration="122000" />
+      <workItem from="1667644789149" duration="4747000" />
+      <workItem from="1668504339702" duration="2000" />
     </task>
     <servers />
   </component>
@@ -105,28 +114,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Démineur/Program.cs</url>
-          <line>8</line>
-          <properties documentPath="C:\Users\matca\Documents\epita\Repogit démineur\Démineur\Démineur\Program.cs" initialLine="8" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="122" />
-            </startOffsets>
-            <endOffsets>
-              <option value="140" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

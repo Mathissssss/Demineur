@@ -516,7 +516,7 @@ namespace Démineur
         {
             if (x == 0)
             {
-                if (y == 0)
+                if (y == 0) //check si c'est la case en haut à gauche
                 {
                     if (board.BoardArray[x,y+1].Type != CellType.Bomb)
                     {
@@ -525,6 +525,10 @@ namespace Démineur
                         {
                             Empty(board, x, y + 1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x, y + 1);
                     }
 
                     if (board.BoardArray[x+1,y+1].Type != CellType.Bomb)
@@ -535,6 +539,10 @@ namespace Démineur
                             Empty(board,x+1,y+1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x + 1, y + 1);
+                    }
 
                     if (board.BoardArray[x+1,y].Type != CellType.Bomb)
                     {
@@ -543,6 +551,10 @@ namespace Démineur
                         {
                             Empty(board,x+1,y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x+1,y+1);
                     }
                 }
 
@@ -556,6 +568,10 @@ namespace Démineur
                             Empty(board, x,y-1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x,y-1);
+                    }
 
                     if (board.BoardArray[x+1,y-1].Type != CellType.Bomb)
                     {
@@ -565,6 +581,10 @@ namespace Démineur
                             Empty(board, x+1,y-1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x+1,y-1);
+                    }
 
                     if (board.BoardArray[x+1,y].Type != CellType.Bomb)
                     {
@@ -573,6 +593,10 @@ namespace Démineur
                         {
                             Empty(board, x+1,y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x+1,y);
                     }
                 }
 
@@ -586,6 +610,10 @@ namespace Démineur
                             Empty(board, x,y+1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x,y+1);
+                    }
 
                     if (board.BoardArray[x+1,y+1].Type != CellType.Bomb)
                     {
@@ -594,6 +622,10 @@ namespace Démineur
                         {
                             Empty(board,x+1,y+1 );
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x+1,y+1);
                     }
 
                     if (board.BoardArray[x+1,y].Type != CellType.Bomb)
@@ -604,6 +636,10 @@ namespace Démineur
                             Empty(board, x+1,y);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x+1,y);
+                    }
 
                     if (board.BoardArray[x+1,y-1].Type != CellType.Bomb)
                     {
@@ -613,6 +649,10 @@ namespace Démineur
                             Empty(board, x+1,y-1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x+1,y-1);
+                    }
 
                     if (board.BoardArray[x,y-1].Type != CellType.Bomb)
                     {
@@ -621,6 +661,10 @@ namespace Démineur
                         {
                             Empty(board, x,y-1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x,y-1);
                     }
                 }
             }
@@ -637,6 +681,11 @@ namespace Démineur
                             Empty(board, x-1,y);
                         }
                     }
+                    
+                    else
+                    {
+                        LeftClick(board, x-1,y);
+                    }
 
                     if (board.BoardArray[x-1,y+1].Type != CellType.Bomb)
                     {
@@ -646,6 +695,10 @@ namespace Démineur
                             Empty(board, x-1,y+1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x-1,y+1);
+                    }
 
                     if (board.BoardArray[x,y+1].Type != CellType.Bomb)
                     {
@@ -654,6 +707,10 @@ namespace Démineur
                         {
                             Empty(board, x,y+1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x,y+1);
                     }
                 }
 
@@ -669,6 +726,10 @@ namespace Démineur
                             Empty(board, x,y-1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x,y-1);
+                    }
 
                     if (board.BoardArray[x-1,y-1].Type != CellType.Bomb)
                     {
@@ -678,6 +739,10 @@ namespace Démineur
                             Empty(board,x-1,y-1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x-1,y-1);
+                    }
 
                     if (board.BoardArray[x-1,y].Type != CellType.Bomb)
                     {
@@ -686,6 +751,10 @@ namespace Démineur
                         {
                             Empty(board, x-1,y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x-1,y);
                     }
                 }
                 
@@ -699,6 +768,10 @@ namespace Démineur
                             Empty(board, x,y-1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x,y-1);
+                    }
 
                     if (board.BoardArray[x-1,y-1].Type != CellType.Bomb)
                     {
@@ -707,6 +780,10 @@ namespace Démineur
                         {
                             Empty(board, x-1,y-1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x-1,y-1);
                     }
 
                     if (board.BoardArray[x-1,y].Type != CellType.Bomb)
@@ -717,6 +794,10 @@ namespace Démineur
                             Empty(board, x-1,y);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x-1,y);
+                    }
 
                     if (board.BoardArray[x-1,y+1].Type != CellType.Bomb)
                     {
@@ -726,6 +807,10 @@ namespace Démineur
                             Empty(board, x-1,y+1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x-1,y+1);
+                    }
 
                     if (board.BoardArray[x,y+1].Type != CellType.Bomb)
                     {
@@ -734,6 +819,10 @@ namespace Démineur
                         {
                             Empty(board,x,y+1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x,y+1);
                     }
                 }
             }
@@ -750,6 +839,10 @@ namespace Démineur
                             Empty(board, x - 1, y);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x - 1, y);
+                    }
 
                     if (board.BoardArray[x - 1, y + 1].Type != CellType.Bomb)
                     {
@@ -758,6 +851,10 @@ namespace Démineur
                         {
                             Empty(board, x - 1, y + 1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x - 1, y + 1);
                     }
 
                     if (board.BoardArray[x, y + 1].Type != CellType.Bomb)
@@ -768,6 +865,10 @@ namespace Démineur
                             Empty(board, x, y + 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x, y + 1);
+                    }
 
                     if (board.BoardArray[x + 1, y + 1].Type != CellType.Bomb)
                     {
@@ -777,6 +878,10 @@ namespace Démineur
                             Empty(board, x + 1, y + 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x + 1, y + 1);
+                    }
 
                     if (board.BoardArray[x + 1, y].Type != CellType.Bomb)
                     {
@@ -785,6 +890,10 @@ namespace Démineur
                         {
                             Empty(board, x + 1, y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x + 1, y);
                     }
                 }
 
@@ -798,6 +907,10 @@ namespace Démineur
                             Empty(board, x - 1, y);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x - 1, y);
+                    }
 
                     if (board.BoardArray[x + 1, y].Type != CellType.Bomb)
                     {
@@ -806,6 +919,10 @@ namespace Démineur
                         {
                             Empty(board, x + 1, y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x + 1, y);
                     }
 
                     if (board.BoardArray[x + 1, y - 1].Type != CellType.Bomb)
@@ -816,6 +933,10 @@ namespace Démineur
                             Empty(board, x + 1, y - 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x + 1, y - 1);
+                    }
 
                     if (board.BoardArray[x, y - 1].Type != CellType.Bomb)
                     {
@@ -825,6 +946,10 @@ namespace Démineur
                             Empty(board, x, y - 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x, y - 1);
+                    }
 
                     if (board.BoardArray[x - 1, y - 1].Type != CellType.Bomb)
                     {
@@ -833,6 +958,10 @@ namespace Démineur
                         {
                             Empty(board, x - 1, y - 1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x - 1, y - 1);
                     }
                 }
 
@@ -846,6 +975,10 @@ namespace Démineur
                             Empty(board, x - 1, y - 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x - 1, y - 1);
+                    }
 
                     if (board.BoardArray[x - 1, y].Type != CellType.Bomb)
                     {
@@ -854,6 +987,10 @@ namespace Démineur
                         {
                             Empty(board, x - 1, y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x - 1, y);
                     }
 
                     if (board.BoardArray[x - 1, y + 1].Type != CellType.Bomb)
@@ -864,6 +1001,10 @@ namespace Démineur
                             Empty(board, x - 1, y + 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x - 1, y + 1);
+                    }
 
                     if (board.BoardArray[x, y + 1].Type != CellType.Bomb)
                     {
@@ -872,6 +1013,10 @@ namespace Démineur
                         {
                             Empty(board, x, y + 1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x, y + 1);
                     }
 
                     if (board.BoardArray[x + 1, y + 1].Type != CellType.Bomb)
@@ -882,6 +1027,10 @@ namespace Démineur
                             Empty(board, x + 1, y + 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x + 1, y + 1);
+                    }
 
                     if (board.BoardArray[x + 1, y].Type != CellType.Bomb)
                     {
@@ -890,6 +1039,10 @@ namespace Démineur
                         {
                             Empty(board, x + 1, y);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x + 1, y);
                     }
 
                     if (board.BoardArray[x + 1, y - 1].Type != CellType.Bomb)
@@ -900,6 +1053,10 @@ namespace Démineur
                             Empty(board, x + 1, y - 1);
                         }
                     }
+                    else
+                    {
+                        LeftClick(board, x + 1, y - 1);
+                    }
 
                     if (board.BoardArray[x, y - 1].Type != CellType.Bomb)
                     {
@@ -908,6 +1065,10 @@ namespace Démineur
                         {
                             Empty(board, x, y - 1);
                         }
+                    }
+                    else
+                    {
+                        LeftClick(board, x, y - 1);
                     }
                 }
             }

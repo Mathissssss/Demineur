@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matca\\Documents\\epita\\Repogit démineur\\Démineur\\Démineur\\Démineur.csproj": {}
+    "C:\\Users\\matca\\Documents\\epita\\PROJETS\\Démineur\\Démineur\\Démineur\\Démineur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matca\\Documents\\epita\\Repogit démineur\\Démineur\\Démineur\\Démineur.csproj": {
+    "C:\\Users\\matca\\Documents\\epita\\PROJETS\\Démineur\\Démineur\\Démineur\\Démineur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matca\\Documents\\epita\\Repogit démineur\\Démineur\\Démineur\\Démineur.csproj",
+        "projectUniqueName": "C:\\Users\\matca\\Documents\\epita\\PROJETS\\Démineur\\Démineur\\Démineur\\Démineur.csproj",
         "projectName": "Démineur",
-        "projectPath": "C:\\Users\\matca\\Documents\\epita\\Repogit démineur\\Démineur\\Démineur\\Démineur.csproj",
+        "projectPath": "C:\\Users\\matca\\Documents\\epita\\PROJETS\\Démineur\\Démineur\\Démineur\\Démineur.csproj",
         "packagesPath": "C:\\Users\\matca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matca\\Documents\\epita\\Repogit démineur\\Démineur\\Démineur\\obj\\",
+        "outputPath": "C:\\Users\\matca\\Documents\\epita\\PROJETS\\Démineur\\Démineur\\Démineur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matca\\AppData\\Roaming\\NuGet\\NuGet.Config"
