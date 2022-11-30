@@ -8,17 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88a52f88-852e-4e37-a5da-50de8e6fcf24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Démineur.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/Cell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Cell.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/ref/Démineur.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +92,7 @@
       <workItem from="1667644789149" duration="4747000" />
       <workItem from="1668504339702" duration="2000" />
       <workItem from="1669569726905" duration="427000" />
+      <workItem from="1669835066911" duration="3936000" />
     </task>
     <servers />
   </component>
