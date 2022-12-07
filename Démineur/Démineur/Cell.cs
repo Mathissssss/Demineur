@@ -1404,8 +1404,8 @@ namespace Démineur
                         c = Console.ReadLine();
                     }
                     if (c == "y")
-                    { 
-                        Console.Clear(); 
+                    {
+                        Console.Clear();
                         LaunchGame();
                     }
                     else

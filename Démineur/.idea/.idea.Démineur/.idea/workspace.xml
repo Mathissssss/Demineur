@@ -11,14 +11,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Démineur/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/Cell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/Cell.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/Démineur.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/bin/Debug/net5.0/ref/Démineur.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/Démineur.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Démineur/obj/Debug/net5.0/ref/Démineur.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +87,20 @@
       <workItem from="1667644789149" duration="4747000" />
       <workItem from="1668504339702" duration="2000" />
       <workItem from="1669569726905" duration="427000" />
-      <workItem from="1669835066911" duration="3936000" />
+      <workItem from="1669835066911" duration="4363000" />
+      <workItem from="1669890380315" duration="602000" />
+      <workItem from="1669891404957" duration="1223000" />
+      <workItem from="1670355009208" duration="67000" />
+      <workItem from="1670355095562" duration="132000" />
     </task>
+    <task id="LOCAL-00001" summary="amelioration du code">
+      <created>1669841063079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669841063079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,5 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="amelioration du code" />
+    <option name="LAST_COMMIT_MESSAGE" value="amelioration du code" />
   </component>
 </project>
